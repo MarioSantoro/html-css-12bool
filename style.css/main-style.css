@@ -4,8 +4,25 @@
     box-sizing: border-box;
 }
 
-div.row div{
+.bg-blue{
     background-color: #006cfa;
     border-top: 2px solid white;
     border-left: 2px solid white;
+}
+
+.txt-center{
+    text-align: center;
+}
+
+.txt-white{
+    color: white;
+}
+
+.bg-green{
+    background-color: #01e165;
+    border-left: 2px solid #006cfa;
+}
+
+[class*="col-"]{
+    padding: 1rem;
 }
