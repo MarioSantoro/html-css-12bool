@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+div.row div{
+    background-color: #006cfa;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+}
